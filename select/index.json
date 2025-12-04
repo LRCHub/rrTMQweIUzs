@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Value",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-04T19:24:05.791953Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Value of Ignorance",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/01_The_Value_of_Ignorance_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Value Of Ignorance",
+      "artist": "Sinead O'Connor",
+      "has_synced": false,
+      "path": "select/02_The_Value_Of_Ignorance_Sinead_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It's What You Value",
+      "artist": "George Harrison",
+      "has_synced": true,
+      "path": "select/03_It's_What_You_Value_George_Harrison.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Value",
+      "artist": "A$AP Ferg",
+      "has_synced": true,
+      "path": "select/04_Value_A$AP_Ferg.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Crystalline (Current Value Remix)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/05_Crystalline_(Current_Value_Remix)_Björk.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hollow (Current Value Remix)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/06_Hollow_(Current_Value_Remix)_Björk.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Thunderbolt (Current Value Remix)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/07_Thunderbolt_(Current_Value_Remix)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Guest (Value Added Version)",
+      "artist": "Phantom Planet",
+      "has_synced": true,
+      "path": "select/08_The_Guest_(Value_Added_Version)_Phantom_Planet.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Face Value",
+      "artist": "Prong",
+      "has_synced": false,
+      "path": "select/09_Face_Value_Prong.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Something Of Value",
+      "artist": "Yellowcard",
+      "has_synced": true,
+      "path": "select/10_Something_Of_Value_Yellowcard.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No Hoard of Value",
+      "artist": "Jinjer",
+      "has_synced": true,
+      "path": "select/11_No_Hoard_of_Value_Jinjer.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Value Inn",
+      "artist": "laura stevenson",
+      "has_synced": false,
+      "path": "select/12_Value_Inn_laura_stevenson.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "A Small Package of Value Will Come to You, Shortly",
+      "artist": "Jefferson Airplane",
+      "has_synced": true,
+      "path": "select/13_A_Small_Package_of_Value_Will_Come_to_You,_Shortly_Jefferson_Airplane.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "True Value",
+      "artist": "Dad Feels",
+      "has_synced": true,
+      "path": "select/14_True_Value_Dad_Feels.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Value",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_Value_Ado.txt"
+    }
+  ]
+}
